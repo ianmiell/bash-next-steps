@@ -1,0 +1,1 @@
+See exercises in https://github.com/ianmiell/introduction-to-bash

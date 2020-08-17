@@ -1,0 +1,19 @@
+1) Look at the DEBUG trap in the bash 'man' page and see how you can use it to help debug your scripts.
+
+2) Look for the '\C-e' and '\C-r' bindings in the 'bind -p' output.
+
+3) Go through your 'bind -p' and try and understand it as well as you can.
+
+4) Research the terminal options' shortcuts in the `stty -e` table and what they mean.
+
+5) Research the inputrc file and edit it to configure how `backward-kill-word` is invoked.
+
+6) Write a script that tries to prevent the user leaving the script.
+
+7) Go through these two programs:
+
+- https://github.com/ianmiell/cheapci
+
+- https://github.com/aristocratos/bashtop/blob/master/bashtop
+
+and try and understand each line in turn.
