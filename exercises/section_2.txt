@@ -1,1 +1,7 @@
+1) Work out what the `BASH_SUBSHELL` variable does.
 
+2) Look through your bash history (by typing `history`) and see where you could have used process substitution.
+
+3) Run the output of `find . -type f` through hexdump and pick out the `NUL` bytes in the stream.
+
+4) Try passing a multi-line string to a here string. What happens?

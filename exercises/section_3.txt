@@ -17,3 +17,5 @@
 - https://github.com/aristocratos/bashtop/blob/master/bashtop
 
 and try and understand each line in turn.
+
+8) Write a script to run a series of useful housekeeping or reporting commands in the background, and then output a summary message at the end when they have all completed.
